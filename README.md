@@ -247,3 +247,6 @@ This repository serves as the official landing page for File Grinder. The softwa
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of File Grinder today!**
+
+---
+**Last updated:** 2026-09-08 11:54:17 UTC
